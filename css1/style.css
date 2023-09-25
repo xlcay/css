@@ -1,0 +1,50 @@
+
+li {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    display: inline;
+
+}
+
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+img {
+    max-width: 35%;
+    height: auto;
+    
+}
+
+.content {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    opacity: 1;
+}
+
+img:hover {
+    transform: scale(1.5);
+    transition: transform .5s;
+}
+
+body {
+    background-image: url("222.png");
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-attachment: scroll;
+    background-position-x: center;
+    background-position-y: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+a{
+    color: red;
+    margin-right: 10px;
+}

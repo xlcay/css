@@ -1,0 +1,28 @@
+.googlelogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.greybox {text-align: center;
+background-color: rgb(238, 238, 238);}
+
+#no-bullets {
+    list-style-type: none; /** remove bullets */
+    font-size: 12px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.tablo-nav {
+    text-align: center;
+    font-size: small;
+}
+
+table {width: 100%;}
+td:nth-child(1) {background:rgb(112, 204, 194)}
+td:nth-child(2) {background:rgb(126, 229, 218)}
+td:nth-child(3) {background:rgb(98, 179, 170)}
+
+li {
+    font-size: 13px;
+}
